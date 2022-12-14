@@ -1,8 +1,8 @@
-## About Handler Mock Helper
+## About Site API Handler Mock Helper
 
-Helps setting up mock environment for [wcm.io Handler][handler].
+Helps setting up mock environment for [wcm.io Site API][site-api] with [Handler infrastructure][handler].
 
-[![Maven Central](https://img.shields.io/maven-central/v/io.wcm/io.wcm.testing.wcm-io-mock.handler)](https://repo1.maven.org/maven2/io/wcm/io.wcm.testing.wcm-io-mock.handler/)
+[![Maven Central](https://img.shields.io/maven-central/v/io.wcm/io.wcm.testing.wcm-io-mock.site-api.handler)](https://repo1.maven.org/maven2/io/wcm/io.wcm.testing.wcm-io-mock.site-api.handler/)
 
 
 ### Documentation
@@ -13,18 +13,15 @@ Helps setting up mock environment for [wcm.io Handler][handler].
 
 ### AEM Version Support Matrix
 
-|Handler Mock Helper version |AEM version supported
-|----------------------------|----------------------
-|1.5.x or higher             |AEM 6.5.7+, AEMaaCS
-|1.4.x                       |AEM 6.4+, AEMaaCS
-|1.1.x - 1.3.x               |AEM 6.2+
-|1.0.x                       |AEM 6.1+
-|0.x                         |AEM 6.0+
+|Site API Handler Mock Helper version |AEM version supported
+|-------------------------------------|----------------------
+|1.0.0 or higher                      |AEM 6.5.7+, AEMaaCS
 
 
 ### GitHub Repository
 
-Sources: https://github.com/wcm-io/io.wcm.testing.wcm-io-mock.handler
+Sources: https://github.com/wcm-io/io.wcm.testing.wcm-io-mock.site-api.handler
 
 
+[site-api]: https://wcm.io/site-api/
 [handler]: https://wcm.io/handler/

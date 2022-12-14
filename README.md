@@ -1,10 +1,10 @@
-<img src="https://wcm.io/images/favicon-16@2x.png"/> Handler Site API Extensions Mock Helper
+<img src="https://wcm.io/images/favicon-16@2x.png"/> Site API Handler Mock Helper
 ======
 [![Build](https://github.com/wcm-io/io.wcm.testing.wcm-io-mock.site-api.handler/workflows/Build/badge.svg?branch=develop)](https://github.com/wcm-io/io.wcm.testing.wcm-io-mock.site-api.handler/actions?query=workflow%3ABuild+branch%3Adevelop)
 [![Maven Central](https://img.shields.io/maven-central/v/io.wcm/io.wcm.testing.wcm-io-mock.site-api.handler)](https://repo1.maven.org/maven2/io/wcm/io.wcm.testing.wcm-io-mock.site-api.handler/)
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=wcm-io_io.wcm.testing.wcm-io-mock.site-api.handler&metric=coverage)](https://sonarcloud.io/summary/new_code?id=wcm-io_io.wcm.testing.wcm-io-mock.site-api.handler)
 
-Helps setting up mock environment for wcm.io Handler with Site API.
+Helps setting up mock environment for wcm.io Site API with Handler infrastructure.
 
 Documentation: https://wcm.io/testing/wcm-io-mock/site-api/handler<br/>
 Issues: https://wcm-io.atlassian.net/browse/WTES<br/>

@@ -34,8 +34,8 @@
   <version>1.0.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>Handler Site API Extensions Mock Helper</name>
-  <description>Helps setting up mock environment for wcm.io Handler with Site API.</description>
+  <name>Site API Handler Mock Helper</name>
+  <description>Helps setting up mock environment for wcm.io Site API with Handler infrastructure.</description>
   <url>${site.url}/${site.url.module.prefix}/</url>
 
   <scm>
