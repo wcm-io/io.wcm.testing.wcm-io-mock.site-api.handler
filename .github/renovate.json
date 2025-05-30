@@ -13,6 +13,8 @@
     "io.wcm:io.wcm.handler.link",
     "io.wcm:io.wcm.handler.richtext",
     "io.wcm:io.wcm.site-api.processor",
-    "io.wcm:io.wcm.site-api.handler"
+    "io.wcm:io.wcm.site-api.handler",
+    "org.apache.sling:org.apache.sling.caconfig.spi",
+    "org.apache.sling:org.apache.sling.caconfig.impl"
   ]
 }
