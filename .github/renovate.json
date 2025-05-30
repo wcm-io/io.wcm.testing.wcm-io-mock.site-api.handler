@@ -1,0 +1,18 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": [
+    "github>wcm-io/renovate-config:maven",
+    "github>wcm-io/renovate-config:automerge-parent"
+  ],
+  "ignoreDeps": [
+    "io.wcm:io.wcm.testing.aem-mock.junit4",
+    "io.wcm:io.wcm.sling.commons",
+    "io.wcm:io.wcm.handler.commons",
+    "io.wcm:io.wcm.handler.url",
+    "io.wcm:io.wcm.handler.media",
+    "io.wcm:io.wcm.handler.link",
+    "io.wcm:io.wcm.handler.richtext",
+    "io.wcm:io.wcm.site-api.processor",
+    "io.wcm:io.wcm.site-api.handler"
+  ]
+}
