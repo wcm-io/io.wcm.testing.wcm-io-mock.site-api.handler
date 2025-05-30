@@ -15,7 +15,7 @@ Helps setting up mock environment for [wcm.io Site API][site-api] with [Handler 
 
 |Site API Handler Mock Helper version |AEM version supported
 |-------------------------------------|----------------------
-|1.0.0 or higher                      |AEM 6.5.7+, AEMaaCS
+|1.1.0 or higher                      |AEM 6.5.17+, AEMaaCS
 
 
 ### GitHub Repository
