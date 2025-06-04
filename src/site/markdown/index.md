@@ -1,4 +1,4 @@
-## About Site API Handler Extensions Mock Helper
+## About Site API Handler Extension Mock Helper
 
 Helps setting up mock environment for [wcm.io Site API][site-api] with [Handler infrastructure][handler].
 
